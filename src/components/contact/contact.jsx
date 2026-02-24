@@ -10,7 +10,7 @@ const Contact = () => {
             Get in touch
           </h4>
         </div>
-        <div className="w-full  flex gap-60 justify-center md:items-center mt-20 md:mt-15">
+        <div className="w-full flex flex-col md:flex-row md:gap-60 justify-center  md:items-center mt-20 md:mt-15">
           <div>
             <h1 className="text-3xl font-bold text-black flex">
             <img
