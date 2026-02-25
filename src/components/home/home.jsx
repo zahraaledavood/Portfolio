@@ -41,7 +41,7 @@ const Home = () => {
         </div>
         <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
             <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
-                <a className="w-full flex items-center justify-center px-8 py-3 border border-transpaent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10" href="https://docs.google.com/document/d/1z8d6PALCGE6SsmxvwdXVK7vet0J2TsCeBoF9XDZHybM/edit?tab=t.0">
+                <a className="w-full flex items-center justify-center px-8 py-3 border border-transpaent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10" href="https://drive.google.com/file/d/1zEA0lmGDmr93_fi7vy6Henn3iSeR4tHh/view?usp=sharing">
                     Resume
                 </a>
             </div>
